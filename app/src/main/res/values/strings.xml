@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello WOrld</string>
+    <string name="greetings">Поздравляю с запуском приложения</string>
+    <string name="sdfdsfdsf">sdfdsfdsf</string>
+    <string name="hdgfgdfgdsff">hdgfgdfgdsff</string>
+    <string name="buttonText">Я кнопка</string>
+</resources>
